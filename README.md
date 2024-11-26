@@ -1,12 +1,9 @@
-# **Data Analysis Portfolio**
+# **Anomaly Detection in Time Series Data**
 
-Welcome to my **Data Analysis Portfolio**, where I showcase various data analysis projects using Python. Each project demonstrates specific techniques and methodologies used by data analysts to explore, process, and derive insights from data.
+Detect anomalies in time-series data using Isolation Forest. This project can be applied to various real-world scenarios, such as detecting spikes in web traffic or unusual user behavior.
 
-## Projects Overview
-
-1. **Anomaly Detection in Time Series Data**
-2. **Customer Segmentation Using RFM Analysis**
-3. **Spatial Data Analysis with GeoPandas**
-4. **Forecasting Using Facebook Prophet**
-5. **Hyperparameter Tuning for Machine Learning**
-6. **Advanced Text Analysis: Sentiment Analysis**
+Key Techniques: Isolation Forest, Data Visualization (Matplotlib)
+Highlights:
+Identifies outliers in noisy data.
+Visualizes anomalies on a time series graph.
+Dataset: Simulated time-series data.
