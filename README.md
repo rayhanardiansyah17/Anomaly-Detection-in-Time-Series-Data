@@ -6,8 +6,7 @@ Detect anomalies in time-series data using Isolation Forest. This project can be
 
 **Highlights:**
 
-Identifies outliers in noisy data.
-
-Visualizes anomalies on a time series graph.
+1. Identifies outliers in noisy data.
+2. Visualizes anomalies on a time series graph.
 
 **Dataset**: Simulated time-series data.
